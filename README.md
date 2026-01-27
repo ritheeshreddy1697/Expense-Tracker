@@ -78,7 +78,7 @@ Support attaching receipts or other relevant documents to expense entries.
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  https://github.com/ritheeshreddy1697/Expense-Tracker.git
 ```
 
 Go to the project directory
@@ -171,6 +171,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## Demo
 
 Insert gif or link to demo
+
+##Developed by
+  Ritheesh Reddy Cheemala
 
 
 ## License
